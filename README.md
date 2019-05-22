@@ -1,2 +1,2 @@
 # Playable-2D-Level-Editor
-a Level Editor I've used in many projects now. plan to evolve this idea later with C++ to make a robust platformer engine
+a playable lvel made with the Chroma stage editor I made. collect all the coins and access the secret area to get a special prize.
